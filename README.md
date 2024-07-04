@@ -10,19 +10,19 @@ The Account Management module provides a graphical user interface (GUI) for mana
 
 #### Screenshots
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/65a2fc80-4103-4e60-8e3a-5aa68b5f37c0)
-- **Fig 1:** UI of the Account Management Module
-- 
+**Fig 1:** UI of the Account Management Module
+ 
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/d7d606d9-8802-408a-a2e9-a89e0f29d95e)
-- **Fig 2:** Create Account Module
-- 
+**Fig 2:** Create Account Module
+ 
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/5ea1880d-2d86-4012-920c-c808d42da1db)
-- **Fig 3:** View Account Module
-- 
+**Fig 3:** View Account Module
+ 
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/c791f2bd-2298-460e-b885-f314244c744a)
-- **Fig 4:** Delete Account Module
-- 
+**Fig 4:** Delete Account Module
+ 
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/b8667d0a-28d9-4e8b-a930-53a0f72a0639)
-- **Fig 5:** Update Account Module
+**Fig 5:** Update Account Module
 
 ### Usage
 1. **Create Account:** Click on "Create Account" to enter new account details.
@@ -40,19 +40,19 @@ The Transaction Management module facilitates various financial transactions inc
 
 #### Screenshots
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/0c513060-e2ee-446b-a7dc-7bcc90d4c0b8)
-- **Fig 6:** UI of the Transaction Management Module
-- 
+**Fig 6:** UI of the Transaction Management Module
+ 
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/63dd6f8e-543d-4647-8189-737b92007623)
-- **Fig 7:** Deposit Module
-- 
+**Fig 7:** Deposit Module
+ 
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/67519cae-ffcd-4797-8c3c-0b95b0ba05e6)
--**Fig 8:** Withdraw Module
+**Fig 8:** Withdraw Module
   
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/05e2499e-d7a6-4425-acf4-bbb42601b1ee)
-- **Fig 9:** Transfer Funds Module
-- 
+**Fig 9:** Transfer Funds Module
+
 ![image](https://github.com/harshith7422/Corength-Bank/assets/89782073/6f63a4fe-2eaf-4aa4-a350-0376980845dd)
-- **Fig 10:** Balance Inquiry Module
+**Fig 10:** Balance Inquiry Module
 
 ### Usage
 1. **Deposit:** Click on "Deposit" to add funds to a specific account.
